@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pedro 🤖</h1>
+<h1 align="center">Hi there, I'm Pedro 👨‍💻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-lustosa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
