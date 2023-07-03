@@ -11,6 +11,10 @@
 
 <div align="center">My name is Pedro Lustosa Rege Botelho, I am from Brazil 🇧🇷, and I am glad you are here.</div>
 
+ <div align="center"> 
+ <img height="200em" alt="Robot" src="https://media.discordapp.net/attachments/871171536340529212/1125516513386971207/8f829b23005371.5631bbe9c822a.gif?width=400&height=480" />
+ </div> 
+
 <h1 align="center">About me</h1>
 
  <div align="center"> 
@@ -25,9 +29,5 @@
 - 🚀 I'm a Brazilian Air Force military and engineering
 - 🤖 I'm working at the AI Center of Excellence (CEIA), NVIDIA's official partner
 - 📖 I'm currently studying Diffusion Models, LLMs, and Reinforcement Learning
- 
- <div align="center"> 
- <img height="200em" alt="Robot" src="https://media.discordapp.net/attachments/871171536340529212/1125516513386971207/8f829b23005371.5631bbe9c822a.gif?width=400&height=480" />
- </div> 
  
  ![Snake animation](https://github.com/MelRibeiro/MelRibeiro/blob/output/github-contribution-grid-snake.svg)
