@@ -11,7 +11,7 @@
 
 <div align="center">My name is Pedro Lustosa Rege Botelho, I am from Brazil 🇧🇷, and I am glad you are here.</div>
 
-<div</div>
+<div /div>
 
  <div align="center"> 
  <img height="200em" alt="Robot" src="https://media.discordapp.net/attachments/871171536340529212/1125516513386971207/8f829b23005371.5631bbe9c822a.gif?width=400&height=480" />
