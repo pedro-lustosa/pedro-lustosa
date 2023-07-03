@@ -8,7 +8,7 @@
 
 ### I'm an AI enthusiast!
 
-- 😃 I'm an AI Researcher 
+- 🧠 I'm an AI Researcher 
 - 🎓 I'm undergraduated in Electonic Engineering at Aeronautics Institute of Technology (ITA)
 - 📖 I'm currently studying Diffusion Models and LLMs
  
