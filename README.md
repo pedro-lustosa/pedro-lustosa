@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pedro <img height="70em" alt="Robot" src="https://media.discordapp.net/attachments/871171536340529212/1125516513386971207/8f829b23005371.5631bbe9c822a.gif?width=400&height=480" /></h1>
+<h1 align="center">Hi there, I'm Pedro 👨‍💻 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-lustosa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
