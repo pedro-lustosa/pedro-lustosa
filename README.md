@@ -12,7 +12,7 @@
 <h1 align="center">About me</h1>
 
  <div align="center"> 
-<img height="300em" src="https://media.discordapp.net/attachments/871171536340529212/1125516515781918822/pixels-neon.gif?width=996&height=560" alt"hacker"> <br><br><br>
+<img height="400em" src="https://media.discordapp.net/attachments/871171536340529212/1125516515781918822/pixels-neon.gif?width=996&height=560" alt"hacker"> <br><br><br>
 </div> 
 
 ### I'm an AI enthusiast!
