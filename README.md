@@ -11,11 +11,6 @@
 - 😃 I'm an AI Researcher 
 - 🎓 I'm undergraduated in Electonic Engineering at Aeronautics Institute of Technology (ITA)
 - 📖 I'm currently studying Diffusion Models and LLMs
-
- <p align="center">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=melribeiro&show_icons=true&theme=dark" alt="Mel's Github Stats" />
-    <img width="397em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melribeiro&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
  
  
  <div align="center"> 
