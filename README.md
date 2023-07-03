@@ -19,7 +19,8 @@
 
 ### I'm an AI enthusiast!
 
-- 🧠 I'm an AI Researcher 
+- 🧠 I'm an AI Researcher
+- 📝 Passionate about Mathematics
 - 🎓 I'm an undergraduate in Electronic Engineering at the Aeronautics Institute of Technology (ITA)
 - 🚀 I'm a Brazilian Air Force military and engineering
 - 🤖 I'm working at the AI Center of Excellence (CEIA), NVIDIA's official partner
