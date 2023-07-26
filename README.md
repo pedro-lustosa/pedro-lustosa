@@ -17,9 +17,9 @@
 <img height="400em" src="https://media.discordapp.net/attachments/871171536340529212/1125516515781918822/pixels-neon.gif?width=996&height=560" alt"hacker"> <br><br><br>
 </div> 
 
-### I'm an AI enthusiast!
+### I'm an AI Researcher!
 
-- 🧠 I'm an AI Researcher
+- 🧠 I'm an AI Research Scientist
 - 📝 Passionate about Mathematics
 - 🎓 I'm an undergraduate in Electronic Engineering at the Aeronautics Institute of Technology (ITA)
 - 🚀 I'm a Brazilian Air Force military and engineering
