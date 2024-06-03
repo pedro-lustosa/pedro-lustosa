@@ -26,4 +26,4 @@
 - 🤖 I'm working at the AI Center of Excellence (CEIA), NVIDIA's official partner
 - 📖 I'm currently studying Diffusion Models, LLMs, and Reinforcement Learning
  
- ![Snake animation](https://github.com/MelRibeiro/MelRibeiro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/pedro-lustosa/pedro-lustosa/blob/main/github-contribution-grid-snake-dark.svg)
